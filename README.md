@@ -1,4 +1,4 @@
-# GREENWAY
+# GREEN
 
 ## Build Setup
 
