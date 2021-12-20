@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="top">
-      <h1>Таблица с комментариями</h1>
+      <h1>Таблица с комментариямиbbbbb</h1>
       <Pagination
         :sort="sort"
         :pages="pages"
